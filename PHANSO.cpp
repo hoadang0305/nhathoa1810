@@ -45,6 +45,7 @@ void PHANSO::gantu()
 	cout << "Nhap tu so can gan: ";
 	cin >> tu;
 	tuso = tu;
+	//ádajgfkjssadshakjs
 }
 void PHANSO::ganmau()
 {
